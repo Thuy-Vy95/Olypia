@@ -1,0 +1,4 @@
+C:\Users\Admin\Downloads\C#_Vy\may_client\may_client\bin\Debug\may_client.exe
+C:\Users\Admin\Downloads\C#_Vy\may_client\may_client\bin\Debug\may_client.pdb
+C:\Users\Admin\Downloads\C#_Vy\may_client\may_client\obj\x86\Debug\may_client.exe
+C:\Users\Admin\Downloads\C#_Vy\may_client\may_client\obj\x86\Debug\may_client.pdb

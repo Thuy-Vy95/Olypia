@@ -1,0 +1,8 @@
+C:\Users\Admin\Downloads\C#_Vy\from_tong_quat\from_tong_quat\obj\x86\Debug\from_tong_quat.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\C#_Vy\from_tong_quat\from_tong_quat\obj\x86\Debug\from_tong_quat.Form1.resources
+C:\Users\Admin\Downloads\C#_Vy\from_tong_quat\from_tong_quat\obj\x86\Debug\from_tong_quat.Properties.Resources.resources
+C:\Users\Admin\Downloads\C#_Vy\from_tong_quat\from_tong_quat\obj\x86\Debug\from_tong_quat.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\C#_Vy\from_tong_quat\from_tong_quat\bin\Debug\from_tong_quat.exe
+C:\Users\Admin\Downloads\C#_Vy\from_tong_quat\from_tong_quat\bin\Debug\from_tong_quat.pdb
+C:\Users\Admin\Downloads\C#_Vy\from_tong_quat\from_tong_quat\obj\x86\Debug\from_tong_quat.exe
+C:\Users\Admin\Downloads\C#_Vy\from_tong_quat\from_tong_quat\obj\x86\Debug\from_tong_quat.pdb

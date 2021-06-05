@@ -1,0 +1,4 @@
+C:\Users\Admin\Downloads\C#_Vy\may_sever\may_sever\bin\Debug\may_sever.exe
+C:\Users\Admin\Downloads\C#_Vy\may_sever\may_sever\bin\Debug\may_sever.pdb
+C:\Users\Admin\Downloads\C#_Vy\may_sever\may_sever\obj\x86\Debug\may_sever.exe
+C:\Users\Admin\Downloads\C#_Vy\may_sever\may_sever\obj\x86\Debug\may_sever.pdb
